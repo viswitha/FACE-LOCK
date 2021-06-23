@@ -1,0 +1,38 @@
+{
+    "Status": "Deactivited", 
+    "Name": "Face Unlocker", 
+    "users": [
+        {
+            "img_path": "Img_DB/stark.png", 
+            "name": "Stark"
+        }, 
+        {
+            "img_path": "Img_DB/basha.png", 
+            "name": "Basha"
+        }, 
+        {
+            "img_path": "Img_DB/bhuvan.png", 
+            "name": "Bhuvan"
+        }, 
+        {
+            "img_path": "Img_DB/ganesh.png", 
+            "name": "Ganesh"
+        }, 
+        {
+            "img_path": "Img_DB/teja.png", 
+            "name": "Teja"
+        }, 
+        {
+            "img_path": "Img_DB/viswi.png", 
+            "name": "viswi"
+        }, 
+        {
+            "img_path": "Img_DB/bhargavi.png", 
+            "name": "bhargavi"
+        }, 
+        {
+            "img_path": "Img_DB/unknown.png", 
+            "name": "Unknown"
+        }
+    ]
+}
